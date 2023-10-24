@@ -13,7 +13,7 @@ public class assign2 {
 				if(i==0||i==n||j==n/2)
 				System.out.print("* ");
 				else
-					System.out.print("  ");
+					System.out.print("  ")
 			}
 			System.out.print("  ");
 			for( int j=0;j<=n;j++)
